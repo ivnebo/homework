@@ -1,0 +1,13 @@
+C:\Users\IVAN\source\repos\rhombus\rhombus\bin\Debug\netcoreapp3.1\rhombus.exe
+C:\Users\IVAN\source\repos\rhombus\rhombus\bin\Debug\netcoreapp3.1\rhombus.deps.json
+C:\Users\IVAN\source\repos\rhombus\rhombus\bin\Debug\netcoreapp3.1\rhombus.runtimeconfig.json
+C:\Users\IVAN\source\repos\rhombus\rhombus\bin\Debug\netcoreapp3.1\rhombus.runtimeconfig.dev.json
+C:\Users\IVAN\source\repos\rhombus\rhombus\bin\Debug\netcoreapp3.1\rhombus.dll
+C:\Users\IVAN\source\repos\rhombus\rhombus\bin\Debug\netcoreapp3.1\rhombus.pdb
+C:\Users\IVAN\source\repos\rhombus\rhombus\obj\Debug\netcoreapp3.1\rhombus.csprojAssemblyReference.cache
+C:\Users\IVAN\source\repos\rhombus\rhombus\obj\Debug\netcoreapp3.1\rhombus.AssemblyInfoInputs.cache
+C:\Users\IVAN\source\repos\rhombus\rhombus\obj\Debug\netcoreapp3.1\rhombus.AssemblyInfo.cs
+C:\Users\IVAN\source\repos\rhombus\rhombus\obj\Debug\netcoreapp3.1\rhombus.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\source\repos\rhombus\rhombus\obj\Debug\netcoreapp3.1\rhombus.dll
+C:\Users\IVAN\source\repos\rhombus\rhombus\obj\Debug\netcoreapp3.1\rhombus.pdb
+C:\Users\IVAN\source\repos\rhombus\rhombus\obj\Debug\netcoreapp3.1\rhombus.genruntimeconfig.cache

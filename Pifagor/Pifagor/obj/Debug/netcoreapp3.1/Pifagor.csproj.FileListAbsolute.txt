@@ -1,0 +1,13 @@
+C:\Users\IVAN\source\repos\Pifagor\Pifagor\bin\Debug\netcoreapp3.1\Pifagor.exe
+C:\Users\IVAN\source\repos\Pifagor\Pifagor\bin\Debug\netcoreapp3.1\Pifagor.deps.json
+C:\Users\IVAN\source\repos\Pifagor\Pifagor\bin\Debug\netcoreapp3.1\Pifagor.runtimeconfig.json
+C:\Users\IVAN\source\repos\Pifagor\Pifagor\bin\Debug\netcoreapp3.1\Pifagor.runtimeconfig.dev.json
+C:\Users\IVAN\source\repos\Pifagor\Pifagor\bin\Debug\netcoreapp3.1\Pifagor.dll
+C:\Users\IVAN\source\repos\Pifagor\Pifagor\bin\Debug\netcoreapp3.1\Pifagor.pdb
+C:\Users\IVAN\source\repos\Pifagor\Pifagor\obj\Debug\netcoreapp3.1\Pifagor.csprojAssemblyReference.cache
+C:\Users\IVAN\source\repos\Pifagor\Pifagor\obj\Debug\netcoreapp3.1\Pifagor.AssemblyInfoInputs.cache
+C:\Users\IVAN\source\repos\Pifagor\Pifagor\obj\Debug\netcoreapp3.1\Pifagor.AssemblyInfo.cs
+C:\Users\IVAN\source\repos\Pifagor\Pifagor\obj\Debug\netcoreapp3.1\Pifagor.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\source\repos\Pifagor\Pifagor\obj\Debug\netcoreapp3.1\Pifagor.dll
+C:\Users\IVAN\source\repos\Pifagor\Pifagor\obj\Debug\netcoreapp3.1\Pifagor.pdb
+C:\Users\IVAN\source\repos\Pifagor\Pifagor\obj\Debug\netcoreapp3.1\Pifagor.genruntimeconfig.cache
